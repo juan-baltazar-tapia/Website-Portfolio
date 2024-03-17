@@ -9,7 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: bisque;
+  background-color: rgb(255, 251, 246);
 }
 
 html {
@@ -388,7 +388,7 @@ article img {
 }
 
 .project-two {
-  background-color: #FBEAD7;
+  background-color: rgb(255, 249, 241)
 }
 
 .project-three {
